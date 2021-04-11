@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SampleCQRS.Domain/1.0.0": {
+        "runtime": {
+          "SampleCQRS.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleCQRS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
